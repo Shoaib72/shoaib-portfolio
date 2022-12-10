@@ -1,23 +1,15 @@
-import logo from './logo.svg';
+import BG from './Assets/BG.mp4';
 import './App.css';
+import { RouterProvider } from 'react-router-dom';
+import router from './Router/Router';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App relative">
+      <video src={BG} autoPlay loop muted></video>
+      <RouterProvider router={router}>
+
+      </RouterProvider>
     </div>
   );
 }
