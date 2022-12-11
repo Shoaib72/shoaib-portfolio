@@ -20,7 +20,7 @@ const Contact = () => {
 
     };
     return (
-        <div className='absolute top-[200px] md:ml-[500px]'>
+        <div className='absolute top-[240px] md:ml-[500px] ml-[10px]'>
             <h1 className='text-white text-xl font-bold md:ml-[80px] ml-[70px] mb-5'>WRITE
                 <span style={{ color: 'red', fontWeight: 'bold' }}>
                     {/* Style will be inherited from the parent element */}

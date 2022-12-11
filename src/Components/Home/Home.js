@@ -3,7 +3,7 @@ import { Typewriter } from 'react-simple-typewriter'
 
 const Home = () => {
     return (
-        <div className='absolute top-[200px]'>
+        <div className='absolute top-[270px]'>
             <h1 className='text-6xl md:ml-[415px] ml-[10px] font-bold text-white text-center'><span className="text-red-600">SHOAIB</span> AHAMMED</h1>
             <h2 className='text-white text-xl font-bold md:ml-[422px] ml-[50px]'>I AM A
                 <span style={{ color: 'red', fontWeight: 'bold' }}>

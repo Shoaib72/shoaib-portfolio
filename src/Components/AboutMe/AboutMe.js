@@ -5,7 +5,7 @@ import { FaFacebook, FaGithub, FaLinkedin } from 'react-icons/fa'
 
 const AboutMe = () => {
     return (
-        <div className="bg-black shadow-xl absolute top-[150px] md:top-[200px] ml-[50px] md:ml-[300px] md:flex md:gap-[80px]">
+        <div className="bg-black shadow-xl absolute top-[190px] md:top-[200px] ml-[50px] md:ml-[300px] md:flex md:gap-[80px]">
             <img src={pic} alt="" className='md:h-[300px] md:w-[300px] h-[150px] w-[150px]' />
             <div>
                 <h1 className="text-3xl font-bold text-red-600"><span className="text-white">SHOAIB</span> AHAMMED</h1>
