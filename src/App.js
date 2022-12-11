@@ -5,7 +5,7 @@ import router from './Router/Router';
 
 function App() {
   return (
-    <div className="App relative">
+    <div className="App">
       <video src={BG} autoPlay loop muted></video>
       <RouterProvider router={router}>
 
