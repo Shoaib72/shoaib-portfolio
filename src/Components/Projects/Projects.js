@@ -30,7 +30,7 @@ const Projects = () => {
                         <div className='flex flex-col py-1 my-1'>
                             <a className='border-2px border-red-600 bg-red-600 rounded-lg text-white p-1 font-bold w-[130px] md:mb-1' href="https://sky-hype-f2075.web.app/">VIEW PROJECT</a>
                             <a className='border-2px border-red-600 bg-red-600 rounded-lg text-white p-1 font-bold w-[130px] md:mb-1' href="https://github.com/Shoaib72/sky-hype-client">GITHUB</a>
-                            <a className='border-2px border-red-600 bg-red-600 rounded-lg text-white p-1 font-bold w-[130px]' href="https://sky-hype-f2075.web.app/">DETAILS</a>
+                            <a className='border-2px border-red-600 bg-red-600 rounded-lg text-white p-1 font-bold w-[130px]' href="https://drive.google.com/file/d/10ker0I31A6J0yDo9Q4zUBPnHse7-nIgU/view?usp=share_link">DETAILS</a>
 
                         </div>
                     </div>
@@ -38,12 +38,12 @@ const Projects = () => {
                 <div className="card md:w-64 w-[325px] bg-black shadow-xl">
                     <figure><img src={P2} alt="Shoes" /></figure>
                     <div className="card-body">
-                        <h2 className="card-title text-white">Gnosis Web App</h2>
+                        <h2 className="card-title text-white">Gnosis Web Application</h2>
                         <p className="text-white">Online EduTech</p>
                         <div className='flex flex-col py-1 my-1'>
                             <a className='border-2px border-red-600 bg-red-600 rounded-lg text-white p-1 font-bold w-[130px] md:mb-1' href="https://gnosis-web-app.web.app/">VIEW PROJECT</a>
                             <a className='border-2px border-red-600 bg-red-600 rounded-lg text-white p-1 font-bold w-[130px] md:mb-1' href="https://github.com/Shoaib72/gnosis-web-app">GITHUB</a>
-                            <a className='border-2px border-red-600 bg-red-600 rounded-lg text-white p-1 font-bold w-[130px]' href="https://sky-hype-f2075.web.app/">DETAILS</a>
+                            <a className='border-2px border-red-600 bg-red-600 rounded-lg text-white p-1 font-bold w-[130px]' href="https://drive.google.com/file/d/1yjXLFfLPr6FQeJ2ajvNxemfSI7cuFEyL/view?usp=share_link">DETAILS</a>
 
                         </div>
                     </div>
@@ -51,12 +51,12 @@ const Projects = () => {
                 <div className="card md:w-64 w-[325px] bg-black shadow-xl">
                     <figure><img src={P3} alt="Shoes" /></figure>
                     <div className="card-body">
-                        <h2 className="card-title text-white">QuizQuark</h2>
+                        <h2 className="card-title text-white">QuizQuark Web Application</h2>
                         <p className="text-white">Online Quiz Web App</p>
                         <div className='flex flex-col py-1 my-1'>
                             <a className='border-2px border-red-600 bg-red-600 rounded-lg text-white p-1 font-bold w-[130px] md:mb-1' href="https://prismatic-starlight-792202.netlify.app/">VIEW PROJECT</a>
                             <a className='border-2px border-red-600 bg-red-600 rounded-lg text-white p-1 font-bold w-[130px] md:mb-1' href="https://github.com/Shoaib72/quiz-quark-web-spp">GITHUB</a>
-                            <a className='border-2px border-red-600 bg-red-600 rounded-lg text-white p-1 font-bold w-[130px]' href="https://sky-hype-f2075.web.app/">DETAILS</a>
+                            <a className='border-2px border-red-600 bg-red-600 rounded-lg text-white p-1 font-bold w-[130px]' href="https://drive.google.com/file/d/17XfPwkFVSZD0oleMZ_fv4CBalhLnbeDv/view?usp=share_link">DETAILS</a>
 
                         </div>
                     </div>
